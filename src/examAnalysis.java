@@ -1,8 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-
+//Purpose:To display name and mark of students, total mark, highest mark and number of studentds failed using array in method
 
 import java.util.Scanner;
     class examAnalysis{

@@ -24,7 +24,8 @@ public class variable {
         //float price=12.5;    //invalid variable declaration
         
         double weight=12.5;
-        
+        boolean M=false;
+       
         
         num1=2;     //assign value to variable num1
         num2=3;     //assign value to variable num2
@@ -38,6 +39,7 @@ public class variable {
         System.out.println(price1);
         System.out.println(age);
         System.out.println(weight);
+        System.out.println(M);
     }
     
 }
